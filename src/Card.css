@@ -1,0 +1,9 @@
+.card {
+  width: 11%;
+  padding-top: 11%;
+  background-color: #807e82;
+  border: 5px solid #807e82;
+  border-radius: 25px;
+  margin: 25px 5px 0 5px;
+  transition: .5s ease-in-out;
+}
